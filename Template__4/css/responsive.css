@@ -1,0 +1,210 @@
+@media (max-width:450px) {
+    .social {
+        display: none;
+    }
+
+    body {
+        overflow: unset;
+    }
+
+    .landing {
+        background-position-x: center;
+        width: fit-content;
+    }
+
+    .account {
+        display: none;
+    }
+
+    header {
+        width: 450px;
+    }
+
+    nav ul {
+        display: block;
+    }
+
+    nav ul li a {
+        padding: 24px;
+    }
+
+    .logo h1 {
+        font-size: 32px;
+    }
+
+    .content h2{
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .content h1 {
+        font-size: 32px;
+        text-align: center;
+        line-height: 50px;
+    }
+
+    .content {
+        margin-left: 16px;
+        margin-top: 150px;
+    }
+
+    .content button {
+        margin-left: 25%;
+    }
+
+    .about {
+        width: 450px;
+    }
+
+    .txt p {
+        width: 100%;
+    }
+
+    .box {
+        flex-direction: column;
+    }
+
+    .txt {
+        padding: 50px;
+    }
+
+    .container {
+        width: 410px;
+        flex-direction: column;
+        padding: 0;
+        left: 0;
+    }
+
+    .exp {
+        padding: 32px;
+    }
+
+    .exp h1 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .exp button {
+        width: 250px;
+        padding: 20px;
+        font-size: 16px;
+        letter-spacing: 2px;
+        font-weight: 400;
+    }
+
+    .more p {
+        color: white;
+        font-weight: 300;
+        font-size: 14px;
+        text-align: center;
+        line-height: 32px;
+        width: 100%;
+    }
+
+
+    .box-s i {
+        font-size: 24px;
+        margin-left: 50%;
+    }
+
+    .box-s {
+        margin: 16px;
+    }
+
+    .more {
+        width: fit-content;
+    }
+
+    .trip {
+        font-size: 24px;
+        top: 460px;
+        text-align: center;
+    }
+
+    .slider {
+        width: 450px;
+    }
+
+    .owl-carousel .owl-item img {
+        display: block;
+        width: 70%;
+        margin: 50px;
+    }
+
+    .f-box h1,.f-box h2{
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .f-box i {
+        font-size: 70px;
+    }
+
+    .features {
+        width: 450px;
+    }
+
+    .news h1 {
+        color: white;
+        letter-spacing: 2px;
+        font-size: 32px;
+        text-align: center;
+        padding-top: 10%;
+    }
+
+    .news {
+        width: fit-content;
+        height: 400px;
+    }
+
+    .features p {
+        color: white;
+        line-height: 32px;
+        font-size: 14px;
+        text-align: center;
+        margin-top: 24px;
+    }
+
+    .news div {
+        height: fit-content;
+        width: fit-content;
+        margin-top: 24px;
+    }
+
+    footer {
+        width: 450px;
+    }
+    
+    .contact {
+        width: 450px;
+    }
+
+    .info h1 {
+        font-size: 42px;
+    }
+
+    .info h2 {
+        margin-left: 28%;
+        font-size: 24px;
+    }
+
+    .info h3 {
+        font-size: 21px;
+    }
+
+    .info h4 {
+        font-size: 24px;
+    }
+
+    .info h5 {
+        font-size: 24px;
+    }
+
+    .info div i {
+        font-size: 24px;
+    }
+
+    footer h1 {
+        font-size: 16px;
+    }
+}
